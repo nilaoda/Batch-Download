@@ -1,0 +1,71 @@
+C:\Users\2016\Documents\Visual Studio 2015\Projects\[源码]批量下载\Batch download\obj\x86\Release\Batch download.csprojResolveAssemblyReference.cache
+C:\Users\2016\Documents\Visual Studio 2015\Projects\[源码]批量下载\Batch download\obj\x86\Release\Batch download.csproj.GenerateResource.Cache
+C:\Users\2016\Documents\Visual Studio 2015\Projects\[源码]批量下载\Batch download\bin\Release\Batch Download.exe
+C:\Users\2016\Documents\Visual Studio 2015\Projects\[源码]批量下载\Batch download\bin\Release\Batch Download.pdb
+C:\Users\2016\Documents\Visual Studio 2015\Projects\[源码]批量下载\Batch download\obj\x86\Release\Batch_Download.Properties.Resources.resources
+C:\Users\2016\Documents\Visual Studio 2015\Projects\[源码]批量下载\Batch download\obj\x86\Release\Batch Download.exe
+C:\Users\2016\Documents\Visual Studio 2015\Projects\[源码]批量下载\Batch download\obj\x86\Release\Batch Download.pdb
+C:\Users\2016\Documents\Visual Studio 2015\Projects\[源码]批量下载\Batch download\obj\x86\Release\Batch_Download.Form1.resources
+D:\[源码]批量下载2.0\Batch download\bin\Release\Batch Download.exe.config
+D:\[源码]批量下载2.0\Batch download\obj\x86\Release\Batch Download.exe
+D:\[源码]批量下载2.0\Batch download\obj\x86\Release\Batch Download.pdb
+D:\[源码]批量下载2.0\Batch download\bin\Release\Batch Download.exe
+D:\[源码]批量下载2.0\Batch download\bin\Release\Batch Download.pdb
+D:\[源码]批量下载2.0\Batch download\obj\x86\Release\Batch download.csprojResolveAssemblyReference.cache
+D:\[源码]批量下载2.0\Batch download\obj\x86\Release\Batch_Download.Form1.resources
+D:\[源码]批量下载2.0\Batch download\obj\x86\Release\Batch_Download.Properties.Resources.resources
+D:\[源码]批量下载2.0\Batch download\obj\x86\Release\Batch download.csproj.GenerateResource.Cache
+D:\[源码]批量下载2.1\Batch download\bin\Release\Batch Download.exe.config
+D:\[源码]批量下载2.1\Batch download\obj\x86\Release\Batch Download.exe
+D:\[源码]批量下载2.1\Batch download\obj\x86\Release\Batch Download.pdb
+D:\[源码]批量下载2.1\Batch download\bin\Release\Batch Download.exe
+D:\[源码]批量下载2.1\Batch download\bin\Release\Batch Download.pdb
+D:\[源码]批量下载2.1\Batch download\obj\x86\Release\Batch download.csprojResolveAssemblyReference.cache
+D:\[源码]批量下载2.1\Batch download\obj\x86\Release\Batch_Download.Form1.resources
+D:\[源码]批量下载2.1\Batch download\obj\x86\Release\Batch_Download.Properties.Resources.resources
+D:\[源码]批量下载2.1\Batch download\obj\x86\Release\Batch download.csproj.GenerateResource.Cache
+D:\[源码]批量下载2.2\Batch download\bin\Release\Batch Download.exe.config
+D:\[源码]批量下载2.2\Batch download\obj\x86\Release\Batch Download.exe
+D:\[源码]批量下载2.2\Batch download\obj\x86\Release\Batch Download.pdb
+D:\[源码]批量下载2.2\Batch download\bin\Release\Batch Download.exe
+D:\[源码]批量下载2.2\Batch download\bin\Release\Batch Download.pdb
+D:\[源码]批量下载2.2\Batch download\obj\x86\Release\Batch download.csprojResolveAssemblyReference.cache
+D:\[源码]批量下载2.2\Batch download\obj\x86\Release\Batch_Download.Form1.resources
+D:\[源码]批量下载2.2\Batch download\obj\x86\Release\Batch_Download.Properties.Resources.resources
+D:\[源码]批量下载2.2\Batch download\obj\x86\Release\Batch download.csproj.GenerateResource.Cache
+D:\[源码]批量下载2.3\Batch download\bin\Release\Batch Download.exe.config
+D:\[源码]批量下载2.3\Batch download\obj\x86\Release\Batch Download.exe
+D:\[源码]批量下载2.3\Batch download\obj\x86\Release\Batch Download.pdb
+D:\[源码]批量下载2.3\Batch download\bin\Release\Batch Download.exe
+D:\[源码]批量下载2.3\Batch download\bin\Release\Batch Download.pdb
+D:\[源码]批量下载2.3\Batch download\obj\x86\Release\Batch download.csprojResolveAssemblyReference.cache
+D:\[源码]批量下载2.3\Batch download\obj\x86\Release\Batch_Download.Form1.resources
+D:\[源码]批量下载2.3\Batch download\obj\x86\Release\Batch_Download.Properties.Resources.resources
+D:\[源码]批量下载2.3\Batch download\obj\x86\Release\Batch download.csproj.GenerateResource.Cache
+D:\[源码]批量下载3.0\Batch download\bin\Release\Batch Download.exe.config
+D:\[源码]批量下载3.0\Batch download\obj\x86\Release\Batch Download.exe
+D:\[源码]批量下载3.0\Batch download\obj\x86\Release\Batch Download.pdb
+D:\[源码]批量下载3.0\Batch download\bin\Release\Batch Download.exe
+D:\[源码]批量下载3.0\Batch download\bin\Release\Batch Download.pdb
+D:\[源码]批量下载3.0\Batch download\obj\x86\Release\Batch download.csprojResolveAssemblyReference.cache
+D:\[源码]批量下载3.0\Batch download\obj\x86\Release\Batch_Download.Form1.resources
+D:\[源码]批量下载3.0\Batch download\obj\x86\Release\Batch_Download.Properties.Resources.resources
+D:\[源码]批量下载3.0\Batch download\obj\x86\Release\Batch download.csproj.GenerateResource.Cache
+D:\[源码]批量下载4.0\Batch download\bin\Release\Batch Download.exe.config
+D:\[源码]批量下载4.0\Batch download\obj\x86\Release\Batch Download.exe
+D:\[源码]批量下载4.0\Batch download\obj\x86\Release\Batch Download.pdb
+D:\[源码]批量下载4.0\Batch download\bin\Release\Batch Download.exe
+D:\[源码]批量下载4.0\Batch download\bin\Release\Batch Download.pdb
+D:\[源码]批量下载4.0\Batch download\obj\x86\Release\Batch download.csprojResolveAssemblyReference.cache
+D:\[源码]批量下载4.0\Batch download\obj\x86\Release\Batch_Download.Form1.resources
+D:\[源码]批量下载4.0\Batch download\obj\x86\Release\Batch_Download.Properties.Resources.resources
+D:\[源码]批量下载4.0\Batch download\obj\x86\Release\Batch download.csproj.GenerateResource.Cache
+C:\Users\nilao\Documents\Visual Studio 2015\Projects\[源码]批量下载4.1\Batch download\bin\Release\Batch Download.exe.config
+C:\Users\nilao\Documents\Visual Studio 2015\Projects\[源码]批量下载4.1\Batch download\obj\x86\Release\Batch Download.exe
+C:\Users\nilao\Documents\Visual Studio 2015\Projects\[源码]批量下载4.1\Batch download\obj\x86\Release\Batch Download.pdb
+C:\Users\nilao\Documents\Visual Studio 2015\Projects\[源码]批量下载4.1\Batch download\bin\Release\Batch Download.exe
+C:\Users\nilao\Documents\Visual Studio 2015\Projects\[源码]批量下载4.1\Batch download\bin\Release\Batch Download.pdb
+C:\Users\nilao\Documents\Visual Studio 2015\Projects\[源码]批量下载4.1\Batch download\obj\x86\Release\Batch download.csprojResolveAssemblyReference.cache
+C:\Users\nilao\Documents\Visual Studio 2015\Projects\[源码]批量下载4.1\Batch download\obj\x86\Release\Batch_Download.Form1.resources
+C:\Users\nilao\Documents\Visual Studio 2015\Projects\[源码]批量下载4.1\Batch download\obj\x86\Release\Batch_Download.Properties.Resources.resources
+C:\Users\nilao\Documents\Visual Studio 2015\Projects\[源码]批量下载4.1\Batch download\obj\x86\Release\Batch download.csproj.GenerateResource.Cache
