@@ -63,6 +63,7 @@
 ## 小技巧：如何调用IDM下载m3u8链接
 第一步：在IDM的设置中，捕获浏览器加入Batch Download的可执行文件
 ![](http://i1.piimg.com/567571/a3ed82f8e4c14fc6.png)
+
 第二步：在Batch Download中写入所需下载的m3u8链接，点击分析xml。
 不出意外，IDM将会捕获该IDM地址，点击下载即可。
 ![](http://i4.buimg.com/567571/ab5fc04215c4ab40.png)
