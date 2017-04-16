@@ -60,8 +60,5 @@
 > *   **视频封装格式**：生成的视频的封装格式。
 > *   **命名规则**：生成的视频的命名规则。
 
-## <span style="color:#FFFFFF;">小技巧：如何调用IDM下载m3u8链接</span>
-<span style="color:#FFFFFF;">第一步：在IDM的设置中，捕获浏览器加入Batch Download的可执行文件</span><br />
-<span style="color:#FFFFFF;">第二步：在Batch Download中写入所需下载的m3u8链接，点击分析xml。</span><br />
-<span style="color:#FFFFFF;">不出意外，IDM将会捕获该m3u8地址，点击下载即可。</span><br />
-<span style="color:#FFFFFF;">接下来，享受IDM的快感吧~</span><br />
+## 小技巧：如何调用IDM下载m3u8链接
+谁说Batch Download不是一个浏览器？自己领悟吧~
