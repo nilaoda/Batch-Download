@@ -1,0 +1,6 @@
+{
+  "symbol": "ADA",
+  "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+  "decimals": 18,
+  "name": "CARDANO",
+  "type": "ERC55",
